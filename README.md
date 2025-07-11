@@ -8,7 +8,7 @@ This project aims to enhance image clarity using a lightweight AI model designed
  `evaluate_student.py` --> Trains Teacher & Student models  
  `visualization.py` --> Loads models, visualizes output  
  `images/` --> Sample outputs for README
- `requirements.txt` --> 
+ `requirements.txt` --> Project Dependencies
  `.gitignore` –-> To ignore weights, cache, and environment folders
  `ssim_comparison_report.csv` –-> Example SSIM results
  `MOS.csv` –-> Example Mean Opinion Scores
